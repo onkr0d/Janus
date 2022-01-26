@@ -1,5 +1,5 @@
 # Janus
-This project is a natural extension of previous game/screen-time limiting projects, but cranked up to 100.
+This project is a natural extension of previous game/screen-time limiting projects, but cranked up to 100. It blocks specified apps based on a third party's discretion (a trusted individual), kind of like parental controls, but cooler.
 
 # Parts
 There are essentially three parts that work together to ensure this project functions.
