@@ -6,7 +6,7 @@ from status import Status
 
 app = Flask(__name__)
 
-gaming = None
+gaming = False
 
 
 @app.route('/update', methods=['POST'])
